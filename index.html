@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team NAPS</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="background-image">
+        <div class="cloud" id="welcome-cloud">
+            <h1>OKAY OKAY Bienvenue sur le site officiel de la Team NAPS</h1>
+            <div class="buttons">
+                <button class="btn" onclick="toggleMusic('chicha.mp3', this)">Chicha Kaloud</button>
+                <button class="btn" onclick="toggleMusic('faitpourca.mp3', this)">On est fait pour ça</button>
+                <button class="btn" onclick="toggleMusic('carrevip.mp3', this)">Carré VIP</button>
+            </div>
+        </div>
+    </div>
+    <audio id="audio-player" controls style="display: none;"></audio>
+</body>
+</html>
