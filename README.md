@@ -19,12 +19,12 @@ Pour exécuter ce projet localement, suivez les étapes ci-dessous :
 
 1. Clonez le dépôt :
    ```
-    git clone https://github.com/votre-utilisateur/teamnaps-website.git
+    git clone https://github.com/aguacero7/team-naps-www.git
    ```
 
 2. Accédez au dossier du projet :
    ```
-   cd teamnaps-website
+   cd team-naps-www
    ```
 
 3. Ouvrez le fichier `index.html` dans votre navigateur pour visualiser le site.
