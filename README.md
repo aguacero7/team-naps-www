@@ -18,9 +18,9 @@ Le site **www.teamnaps.fr** a pour objectif de :
 Pour exécuter ce projet localement, suivez les étapes ci-dessous :
 
 1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/teamnaps-website.git
-      ```
+   ```
+  git clone https://github.com/votre-utilisateur/teamnaps-website.git
+  ```
 
 2. Accédez au dossier du projet :
    ```bash
